@@ -5,6 +5,7 @@
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
 > A curated list of resources, tools, guidelines, and communities for building accessible, inclusive digital experiences.
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) - AI-powered alt text generator and WCAG 2.1 compliance checker for WordPress. Bulk generation, rule-based templates (free, offline), 5-status quality scoring. SaaS platform at altaudit.com.
 
 > **"For some people technology makes things easier, for others it makes things possible."**
 
